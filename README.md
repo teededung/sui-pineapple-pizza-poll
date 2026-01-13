@@ -1,6 +1,5 @@
 # 🍕 Pineapple Pizza Poll
 
-A smart contract on the Sui blockchain for voting on the eternal question: **"Should pineapple belong on pizza?"**
 The goal of this project is to gain a deeper understanding of **Shared Objects** through a simple voting application, while exploring the choice between **VecSet** and **Table** for storing the list of wallet addresses that have already voted.
 
 ## 📋 Overview
